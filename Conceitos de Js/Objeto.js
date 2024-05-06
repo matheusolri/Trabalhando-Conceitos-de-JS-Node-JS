@@ -1,3 +1,13 @@
+
+/*são basicamente variáveis com muitos valores dentro ex : const carro = {marca=”ford”, modelo=”ka”,ano : 2005 }
+
+oque tem dentro dos objetos são chamados de  propriedade
+
+objetos também possuem métodos que são como funções colocado dentro de propiedades
+
+geralmente objetos são feitos com tipo de variável const
+*/
+
 const carro = {
     marca:"ford",
     modelo:"ka",
